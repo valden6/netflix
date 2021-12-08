@@ -32,10 +32,21 @@ flutter:
   
   uses-material-design: true
 
-  # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/netflix-logo.png
+    - assets/profile-1.png
+    - assets/film-1.jpeg
+    - assets/film-2.jpeg
+    - assets/film-3.jpeg
+    - assets/film-4.jpeg
+    - assets/film-5.jpeg
+    - assets/film-6.jpeg
+    - assets/film-7.jpeg
+    - assets/film-8.jpeg
+    - assets/film-9.jpeg
+    - assets/film-10.jpeg
+    - assets/film-11.jpeg
+    - assets/film-12.jpg
 
   # example:
   # fonts:
