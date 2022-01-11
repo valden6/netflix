@@ -15,6 +15,7 @@ dependencies:
   flutter_icons: ^1.1.0
   font_awesome_flutter: ^9.2.0
   google_fonts: ^1.1.2
+  video_player: ^2.2.7
 
 dev_dependencies:
   flutter_test:
@@ -47,6 +48,9 @@ flutter:
     - assets/film-10.jpeg
     - assets/film-11.jpeg
     - assets/film-12.jpg
+    - assets/fast-laughs-1.jpeg
+    - assets/fast-laughs-logo-1.png
+    - assets/fast-laughs-video.mp4
 
   # example:
   # fonts:
